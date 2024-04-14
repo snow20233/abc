@@ -1,0 +1,74 @@
+{
+  "urls": [
+    {
+      "url": "clan://localhost/tvbox/ou1/ou1.json",
+      "name": "🚀ou1"
+    },
+    {
+      "url": "clan://localhost/tvbox/duoduoPG/duoduoPG.json",
+      "name": "duoduoPG"
+    },
+ {
+      "url": "clan://localhost/tvbox/欧歌学习娱乐线路3/111/111.json",
+      "name": "欧歌学习娱乐线路3"
+    },
+
+ {
+      "url": "clan://localhost/tvbox/欧歌家庭线路1/111/111.json",
+      "name": "欧歌家庭线路1"
+    },
+ {
+      "url": "clan://localhost/tvbox/阿里4k/111/111.json",
+      "name": "阿里4k"
+    },
+
+    {
+      "url": "clan://localhost/tvbox/D佬魔改/D佬魔改.json",
+      "name": "D佬魔改"
+    },
+    {
+      "url": "clan://localhost/tvbox/fty/fty.json",
+      "name": "fty"
+    },
+    {
+      "url": "clan://localhost/tvbox/Ray/Ray.json",
+      "name": "Ray"
+    },
+    {
+      "url": "clan://localhost/tvbox/w.nxog/w.nxog.json",
+      "name": "w.nxog"
+    },
+    {
+      "url": "clan://localhost/tvbox/南风/南风.json",
+      "name": "南风"
+    },
+    {
+      "url": "clan://localhost/tvbox/吾爱评测/吾爱评测.json",
+      "name": "吾爱评测"
+    },
+    {
+      "url": "clan://localhost/tvbox/小米/小米.json",
+      "name": "小米"
+    },
+    {
+      "url": "clan://localhost/tvbox/短剧频道/短剧频道.json",
+      "name": "短剧频道"
+    },
+    {
+      "url": "clan://localhost/tvbox/肥猫/肥猫.json",
+      "name": "肥猫"
+    },
+    {
+      "url": "clan://localhost/tvbox/荷城茶秀/荷城茶秀.json",
+      "name": "荷城茶秀"
+    },
+    {
+      "url": "clan://localhost/tvbox/讴歌/讴歌.json",
+      "name": "讴歌"
+    },
+    {
+      "url": "clan://localhost/tvbox/饭太硬/饭太硬.json",
+      "name": "饭太硬"
+    }
+  ]
+}
